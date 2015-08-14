@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-dunderscore-dev-inline",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Resolve __DEV__ to NODE_ENV",
   "main": "lib/index.js",
   "scripts": {
