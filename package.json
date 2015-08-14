@@ -4,6 +4,8 @@
   "description": "Resolve __DEV__ to NODE_ENV",
   "main": "lib/index.js",
   "scripts": {
+    "build": "babel-plugin build",
+    "push": "babel-plugin publish",
     "test": "babel-plugin test"
   },
   "repository": {
