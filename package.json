@@ -1,0 +1,23 @@
+{
+  "name": "babel-plugin-dunderscore-dev-inline",
+  "version": "1.0.0",
+  "description": "Resolve __DEV__ to NODE_ENV",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "babel-plugin test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amasad/babel-plugin-dunderscore-dev-inline"
+  },
+  "keywords": [
+    "babel-plugin",
+    "dev"
+  ],
+  "author": "amasad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amasad/babel-plugin-dunderscore-dev-inline/issues"
+  },
+  "homepage": "https://github.com/amasad/babel-plugin-dunderscore-dev-inline"
+}
